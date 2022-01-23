@@ -1,0 +1,92 @@
+{
+        // Use IntelliSense to learn about possible attributes.
+        // Hover to view descriptions of existing attributes.
+        // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+        "version": "0.2.0",
+        "configurations": [
+                {
+                        "type": "java",
+                        "name": "Launch LeetCode1",
+                        "request": "launch",
+                        "mainClass": "com.main.test.LeetCode1",
+                        "projectName": "Multithreading_aa8bae06"
+                },
+                {
+                        "type": "java",
+                        "name": "Launch StreamExample",
+                        "request": "launch",
+                        "mainClass": "com.main.test.StreamExample",
+                        "projectName": "Multithreading_aa8bae06"
+                },
+                {
+                        "type": "java",
+                        "name": "Launch Test1",
+                        "request": "launch",
+                        "mainClass": "com.main.Test1",
+                        "projectName": "Multithreading_aa8bae06",
+                        "vmArgs": "-XX:+PrintCodeCache"
+                },
+                {
+                        "type": "java",
+                        "name": "Launch FindLogestString",
+                        "request": "launch",
+                        "mainClass": "com.main.test.FindLogestString",
+                        "projectName": "Multithreading_aa8bae06"
+                },
+                {
+                        "type": "java",
+                        "name": "Launch ReverseString",
+                        "request": "launch",
+                        "mainClass": "com.main.solution.ReverseString",
+                        "projectName": "Multithreading_aa8bae06"
+                },
+                {
+                        "type": "java",
+                        "name": "Launch RemoveVowel",
+                        "request": "launch",
+                        "mainClass": "com.main.solution.RemoveVowel",
+                        "projectName": "Multithreading_aa8bae06"
+                },
+                {
+                        "type": "java",
+                        "name": "Launch ThreadFact",
+                        "request": "launch",
+                        "mainClass": "com.main.executor.ThreadFact",
+                        "projectName": "Multithreading_aa8bae06"
+                },
+                {
+                        "type": "java",
+                        "name": "Launch FirstExe",
+                        "request": "launch",
+                        "mainClass": "com.main.executor.FirstExe",
+                        "projectName": "Multithreading_aa8bae06"
+                },
+                {
+                        "type": "java",
+                        "name": "Launch Runner",
+                        "request": "launch",
+                        "mainClass": "com.main.test.impl.Runner",
+                        "projectName": "Multithreading_aa8bae06"
+                },
+                {
+                        "type": "java",
+                        "name": "Launch Runner",
+                        "request": "launch",
+                        "mainClass": "com.main.test.extend.Runner",
+                        "projectName": "Multithreading_aa8bae06"
+                },
+                {
+                        "type": "java",
+                        "name": "Launch Current File",
+                        "request": "launch",
+                        "mainClass": "${file}"
+                },
+                {
+                        "type": "java",
+                        "name": "Launch App",
+                        "request": "launch",
+                        "mainClass": "com.main.test.App",
+                        "projectName": "Multithreading_aa8bae06"
+                }
+        ]
+}
